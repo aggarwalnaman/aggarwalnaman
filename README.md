@@ -2,7 +2,11 @@
 <h3 align="center">I am software developer what's your superpower?</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aggarwalnaman" alt="aggarwalnaman" /> </p>
 
+<br>
+
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
+  <br>
 
 - 🔭 I’m currently working on **my skills 👨‍💻**
 
@@ -11,6 +15,8 @@
 - 💬 Ask me about **anything , I am happy to help.**
 
 - 📫 How to reach me **naman.agg2001@gmail.com**
+
+<br>
 
 
 # **Languages and Tools:**  
@@ -23,7 +29,7 @@
 <code><img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"></code>
 <code><img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"></code>
 <code><img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"></code> 
-code><img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="flutter" width="20" height="20"></code> 
+<code><img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="flutter" width="20" height="20"></code> 
 
 
 <br><br>
