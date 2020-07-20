@@ -13,7 +13,7 @@
 - 📫 How to reach me **naman.agg2001@gmail.com**
 
 
-**Languages and Tools:**  
+# **Languages and Tools:**  
 
 <code><img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"></code>
 <code><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"></code>
@@ -25,7 +25,7 @@
 <code><img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"></code> 
 
 
-
+<br><br>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=aggarwalnaman&show_icons=true" alt="aggarwalnaman" /> 
@@ -33,8 +33,8 @@
 
 # Connect with me :
 
-<a href="https://twitter.com/namanag17473559" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="namanag17473559" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/naman78" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naman78" height="20" width="20" /></a>
-<a href="https://fb.com/naman.aggarwal.16940" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="naman.aggarwal.16940" height="20" width="20" /></a>
-<a href="https://instagram.com/aggarwalnaman78" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aggarwalnaman78" height="20" width="20" /></a>
+<a href="https://twitter.com/namanag17473559" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="namanag17473559" height="22" width="22" /></a>
+<a href="https://linkedin.com/in/naman78" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naman78" height="22" width="22" /></a>
+<a href="https://fb.com/naman.aggarwal.16940" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="naman.aggarwal.16940" height="22" width="22" /></a>
+<a href="https://instagram.com/aggarwalnaman78" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aggarwalnaman78" height="22" width="22" /></a>
 
