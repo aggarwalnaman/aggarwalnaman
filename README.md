@@ -34,8 +34,7 @@
 
 <br><br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aggarwalnaman&theme=dark&hide_langs_below=1" />
-<img src="https://github-readme-stats.vercel.app/api?username=aggarwalnaman&show_icons=true&theme=dark" alt="aggarwalnaman" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aggarwalnaman&theme=dark&hide_langs_below=1" /> <img src="https://github-readme-stats.vercel.app/api?username=aggarwalnaman&show_icons=true&theme=dark" alt="aggarwalnaman" /> 
 
 
 # Connect with me :
