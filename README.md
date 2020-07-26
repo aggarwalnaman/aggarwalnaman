@@ -21,15 +21,15 @@
 
 # **Languages and Tools:**  
 
-<code><img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"></code>
-<code><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"></code>
-<code><img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"></code>
-<code><img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"></code>
-<code><img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"></code>
-<code><img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"></code>
-<code><img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"></code>
-<code><img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"></code> 
-<code><img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="flutter" width="20" height="20"></code> 
+<code><img src="https://user-images.githubusercontent.com/42396114/88472701-5d128d00-cf33-11ea-8ca5-aeab389449a3.png" alt="android" width="25" height="25"></code>
+<code><img src="https://user-images.githubusercontent.com/42396114/88472729-a7940980-cf33-11ea-954e-a153897617fa.png" alt="c" width="25" height="25"></code>
+<code><img src="https://user-images.githubusercontent.com/42396114/88472744-c98d8c00-cf33-11ea-9458-e504733194bb.png" width="25" height="25"></code>
+<code><img src="https://user-images.githubusercontent.com/42396114/88472762-0063a200-cf34-11ea-9dd7-1022c2703109.png" alt="css3" width="25" height="25"></code>
+<code><img src="https://user-images.githubusercontent.com/42396114/88472771-1d987080-cf34-11ea-9b1d-7730d8689165.png" alt="html5" width="25" height="25"></code>
+<code><img src="https://user-images.githubusercontent.com/42396114/88472812-82ec6180-cf34-11ea-92b8-9cd31daec29f.png" alt="java" width="25" height="25"></code>
+<code><img src="https://user-images.githubusercontent.com/42396114/88472824-a7483e00-cf34-11ea-9ac8-fd17ee929818.png" alt="mysql" width="25" height="25"></code>
+<code><img src="https://user-images.githubusercontent.com/42396114/88472841-d8287300-cf34-11ea-8407-2c8b135352e2.png" alt="python" width="25" height="25"></code> 
+<code><img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="flutter" width="25" height="25"></code> 
 
 
 <br><br>
