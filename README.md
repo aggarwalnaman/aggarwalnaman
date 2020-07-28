@@ -14,8 +14,8 @@
 
 - 💬 Ask me about **anything , I am happy to help.**
 
-- 📫 How to reach me **naman.agg2001@gmail.com** <br>
-                  📞 : **9690275042**
+- <pre> 📫 How to reach me : <b>naman.agg2001@gmail.com</b> <br>
+                   📞 : <b>9690275042</b></pre>
 
 <br>
 
